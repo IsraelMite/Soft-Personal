@@ -1,5 +1,3 @@
-# Soft-Personal
-Informacion personal
 # Pagina-personal
 <html lang="en">
 <head>
@@ -50,15 +48,8 @@ Informacion personal
         </div>
         <h1>Comentario Personal</h1> 				
             <div class="split">
-                <p>Lo mencionado en el sitio web es algo superficial, no poseo mas conocimientos aparte de los mencionados.</p>
+                <p>Lo expuesto es algo muy básico debido a que no poseo los conocimientos sucifientes para la elavoración de algo más complejo.</p>
                 
-        </div>
-
-    </section>
-    <footer>
-        <div class="footer">
-        </div>
-    </footer>
-
+       
 </body>
 </html>

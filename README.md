@@ -51,5 +51,4 @@
                 <p>Lo expuesto es algo muy básico debido a que no poseo los conocimientos sucifientes para la elaboración de algo más complejo.</p>
                 
      
-</body>
-</html>
+
